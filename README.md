@@ -1,2 +1,4 @@
 # Logica-de-programacion
-Lógica de programación
+Repositorio Lógica de programación
+22/07/2026
+Se creo la versión del nuevo archivo Github.psc donde se aprendió a crear  el respositorio general.
