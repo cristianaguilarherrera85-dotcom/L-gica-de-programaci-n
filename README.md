@@ -1,2 +1,2 @@
-# L-gica-de-programaci-n
+# Logica-de-programacion
 Lógica de programación
